@@ -20,9 +20,9 @@
 
 - [Checklists](https://github.com/nikkichristtt/Checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/nikkichristtt/Test-Suites-and-Test-Cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Bug-Reports](https://github.com/nikkichristtt/bug-reports.git)
+- [SQL Queries](https://github.com/nikkichristtt/SQL-Queries.git)
+- [Postman Collections](https://github.com/nikkichristtt/postman.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/mikita-rovenski-549230269/)
