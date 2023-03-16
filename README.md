@@ -1,4 +1,4 @@
-[![Header](https://github.com/nikkichristtt/nikkichristtt/blob/main/assets/MikitaRovenski.png)
+[Header](https://github.com/nikkichristtt/nikkichristtt/blob/main/assets/MikitaRovenski.png)
 ## I'm a Junior QA Engineer.
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/19-xm6D-IUlPX8hhTWdKoJm3KA5QY30-A/view?usp=share_link)
