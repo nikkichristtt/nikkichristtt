@@ -1,18 +1,11 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## I'm a Junior QA Engineer.
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://drive.google.com/file/d/19-xm6D-IUlPX8hhTWdKoJm3KA5QY30-A/view?usp=share_link)
 
 ## Latest Youtube Videos
 
-<!-- YOUTUBE:START -->
-- [Чек-листы и тест-кейсы](https://www.youtube.com/watch?v=D2shLisnEBM)
-- [Классы эквивалентности и анализ граничных значений 2.0](https://www.youtube.com/watch?v=NQBi716WCOU)
-- [ИНФОЦЫГАНСТВО В 2023 ГОДУ](https://www.youtube.com/watch?v=JWS_9LrBgiw)
-- [Внешкольный контент из Дубай - Lost Chambers Aquarium](https://www.youtube.com/watch?v=yQ8QENO4T6w)
-- [Как создать личный бренд в IT?](https://www.youtube.com/watch?v=k3rEiWdCtcU)
-<!-- YOUTUBE:END -->
+
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
