@@ -3,8 +3,6 @@
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/19-xm6D-IUlPX8hhTWdKoJm3KA5QY30-A/view?usp=share_link)
 
-## Latest Youtube Videos
-
 
 
 ### Language and Tools
@@ -20,8 +18,8 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Checklists](https://github.com/nikkichristtt/Checklists.git)
+- [Test-Suites and Test-Cases](https://github.com/nikkichristtt/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
